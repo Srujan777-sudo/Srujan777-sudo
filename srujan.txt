@@ -1,0 +1,5 @@
+for x in the range (2,7)
+if x%==0
+print(x is the even number)
+else
+print(x is the odd number)
